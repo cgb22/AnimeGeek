@@ -1,0 +1,123 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #FFFFFF;
+}
+
+.header_titulo{
+    color: #464646;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.header_buscador{
+    width: 250px;
+    height: 30px;
+    background-image: url(/assets/img/Lupa.png);
+    background-repeat: no-repeat;
+    background-position: 255px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 16px;
+    gap: 8px;
+    color: #464646;
+}
+
+.header_buscador:focus{
+    outline: none;
+}
+
+.header_buscador:active{
+    outline: none;
+}
+
+.header_boton{
+    width: 200px;
+    height: 50px;
+    background: #f1f1f1;
+    border: solid .5px;
+    border-color: #2A7AE4;
+    color: #2A7AE4;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 100%;
+}
+
+.container_productos{
+    display: flex;
+    justify-content: center;
+}
+
+.form_productos{
+    display: flex;
+    align-items: center;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    border: none;
+    padding: 20px;
+}
+
+fieldset input{
+    width: 600px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background: #FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    color: #464646;
+}
+
+fieldset textarea{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background: #FFFFFF;
+    outline: none;
+    border: none;
+    resize: none;
+    border-radius: 6px;
+    color: #464646;
+}
+
+
+legend{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 2rem;
+    color: #464646;
+    padding-left: 12px;
+}
+
+.agregarBoton{
+    width: 600px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+

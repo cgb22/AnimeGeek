@@ -1,0 +1,173 @@
+.container{
+    width: 100%;
+}
+
+.container_Login{
+    display: flex;
+    justify-content: center;
+}
+
+.form_Login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_Login-titulo{
+    padding-top: 5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #464646;
+}
+
+.form_Login-input{
+    padding: 15px;
+}
+
+.form_Login-email{
+    width: 400px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background: #FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    color: #464646;
+}
+
+.form_Login-password{
+    width: 400px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background: #FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    color: #464646;
+}
+
+.form_Login-button{
+    width: 400px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 16px;
+}
+
+.footer{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+    gap: 115px;
+    background:#EAF2FD;
+  }
+  
+  .footer_titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #464646;
+  }
+  
+  .lista_contacto{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .lista_contacto-link{
+    padding: 4px;
+  }
+  
+  .lista_contacto-text{
+    color: #464646;
+  }
+  
+  .form_contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .form_contacto-titulo{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  .form_contacto-input{
+    padding-bottom: 12px;
+  }
+  .form_contacto-nombre{
+    font-size: 16px;
+    width: 300px;
+    height: 36px;
+    background: #FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: #464646;
+  }
+  
+  .form_contacto-mensaje{
+    font-size: 16px;
+    background: #FFFFFF;
+    outline: none;
+    resize: none;
+    border: none;
+    border-radius: 5px;
+    color: #464646;
+    margin-bottom: 12px;
+  }
+  
+  .form__button{
+    width: 120px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    text-align: center;
+    cursor: pointer;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    border: solid .5px;
+    border-color: #2A7AE4;
+  }
+  
+  .rodapie{
+    width: 100%;
+    height: 102px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .creditos{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+  }
+  
+  

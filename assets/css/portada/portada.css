@@ -1,0 +1,43 @@
+.portada{
+    background: url(/assets/img/banner.jpg) no-repeat center / cover;
+    width: 100%;
+    height: 352px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:flex-start;
+}
+
+.portada_titulo{
+    font-weight: 700;
+    font-size: 52px;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    padding-left: 23px;
+}
+
+.portada_parrafo{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    color: #ffffff;
+    padding-left: 23px;
+}
+
+.portada_boton{
+    width: 119px;
+    height: 51px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    text-align: center;
+    cursor: pointer;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    border: solid .5px;
+    border-color: #2A7AE4;
+    margin-left: 7px;
+}

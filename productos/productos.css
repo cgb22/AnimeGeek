@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+}
+
+span{
+    color:  #2A7AE4;
+}
+
+li, ul, a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.productos{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.productos h2{
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 2rem;
+    color: #464646;
+    padding-left: 12px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.productos button{
+    width: 163px;
+    height: 51px;   
+    margin-top: 2rem;
+    text-align: center;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    border: #2A7AE4 solid 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.productos a {
+    color: #FFFFFF;
+}
+
+.productos_line{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+.productos__box{
+    width: 200px;
+    height: 200px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.productos_img{
+    width: 100%;
+}
+
+.productos_name{
+    font-size: 14px;
+    font-weight: 500;
+    color:#464646;
+}
+
+.productos_precio{
+    font-size: 16px;
+    font-weight: 700;
+    color:#464646;
+}
+
+.productos_producto{
+    font-size: 16px;
+    font-weight: 700;
+    color:#464646;
+}
+
+

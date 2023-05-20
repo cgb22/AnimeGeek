@@ -1,0 +1,55 @@
+.diversos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.diversos_titulo{
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 2rem;
+    color: #464646;
+    padding-left: 12px;
+}
+
+.diversos_parrafo{
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 2rem;
+    color: #2A7AE4;
+    padding-right: 12px;
+}
+
+.diversos_line{
+    display: flex;
+    justify-content: space-between;
+}
+
+.diversos__box{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.diversos_img{
+    width: 100%;
+}
+
+.diversos_name{
+    font-size: 14px;
+    font-weight: 500;
+    color:#464646;
+}
+
+.diversos_precio{
+    font-size: 16px;
+    font-weight: 700;
+    color:#464646;
+}
+
+.diversos_producto{
+    font-size: 16px;
+    font-weight: 700;
+    color:#2A7AE4;
+}

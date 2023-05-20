@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #FFFFFF;
+}
+
+.header_titulo{
+    color: #464646;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.header_buscador{
+    width: 250px;
+    height: 30px;
+    background-image: url(/assets/img/Lupa.png);
+    background-repeat: no-repeat;
+    background-position: 255px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 16px;
+    gap: 8px;
+    color: #464646;
+}
+
+.header_buscador:focus{
+    outline: none;
+}
+
+.header_buscador:active{
+    outline: none;
+}
+
+.header_boton-login{
+    width: 110px;
+    height: 33px;
+    background: #f1f1f1;
+    border: solid .5px;
+    border-color: #2A7AE4;
+    color: #2A7AE4;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.LoginText{
+    color: #2A7AE4;
+}
