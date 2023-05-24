@@ -53,3 +53,13 @@
 .LoginText{
     color: #2A7AE4;
 }
+
+
+@media (max-width: 400px) {
+    .header{
+        display: flex;
+    }
+    .header_buscador{
+        display: none;
+    }
+}

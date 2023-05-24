@@ -1,0 +1,65 @@
+{
+    "categorias": [
+        {
+            "id": "sword art online",
+            "nombre": "sword art online"
+        },
+        {
+            "id": "consolas",
+            "nombre": "consolas"
+        },
+        {
+            "id": "diversos",
+            "nombre": "diversos"
+        }
+    ],
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Figura Asuna",
+            "imagen": "https://m.media-amazon.com/images/I/41+0DJELJPL._AC_.jpg",
+            "descripcion": "Figura de Asuna Yukki en tamaño Nendoroid",
+            "precio": "$60.00",
+            "categoria": "sword art online"
+        },
+        {
+            "id": 2,
+            "nombre": "Figura Kirito",
+            "imagen": "https://pbs.twimg.com/media/DC-b-fsUMAAzUhs.jpg",
+            "descripcion": "Figura de Kirito en tamaño Nendoroid",
+            "precio": "$60.00",
+            "categoria": "sword art online"
+        },
+        {
+            "id": 3,
+            "nombre": "Figura Alice",
+            "imagen": "https://m.media-amazon.com/images/I/41MqgFp8M6L._AC_.jpg",
+            "descripcion": "Figura de Alice en tamaño Nendoroid",
+            "precio": "$60.00",
+            "categoria": "sword art online"
+        },
+        {
+            "id": 4,
+            "nombre": "Figura Eugeo",
+            "imagen": "https://m.media-amazon.com/images/I/41f1syd8N3L._AC_.jpg",
+            "descripcion": "Figura de Eugeo en tamaño Nendoroid",
+            "precio": "$60.00",
+            "categoria": "sword art online"
+        },
+        {
+            "id": 5,
+            "nombre": "Figura Yukki",
+            "imagen": "https://cdn.shopify.com/s/files/1/2437/4099/products/G12706_5_750x800.jpg?v=1637272266",
+            "descripcion": "Figura de Yukki en tamaño Nendoroid",
+            "precio": "$60.00",
+            "categoria": "sword art online"
+        },
+        {
+            "id": 6,
+            "nombre": "Figura Sinon",
+            "imagen": "https://images.goodsmile.info/cgm/images/product/20140902/4573/30250/large/d36374e8ad2f097ab296a195a0b88d6c.jpg",
+            "descripcion": "Figura de Sinon en tamaño Nendoroid",
+            "precio": "$60.00",
+            "categoria": "sword art online"
+        }
+    ]}

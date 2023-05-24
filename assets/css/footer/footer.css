@@ -60,6 +60,7 @@
   border: none;
   border-radius: 5px;
   color: #464646;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .form_contacto-mensaje{
@@ -71,6 +72,7 @@
   border-radius: 5px;
   color: #464646;
   margin-bottom: 12px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .form__button{
@@ -105,3 +107,9 @@
   text-align: center;
 }
 
+@media (max-width: 400px) {
+  .footer{
+    display: flex;
+    width: 100%;
+  }
+}

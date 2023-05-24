@@ -107,10 +107,12 @@
   
   .form_contacto-titulo{
     font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     line-height: 19px;
     letter-spacing: 0em;
     text-align: left;
+    color: #464646;
   }
   
   .form_contacto-input{
@@ -125,6 +127,7 @@
     border: none;
     border-radius: 5px;
     color: #464646;
+    font-family: 'Montserrat', sans-serif;
   }
   
   .form_contacto-mensaje{
@@ -136,6 +139,7 @@
     border-radius: 5px;
     color: #464646;
     margin-bottom: 12px;
+    font-family: 'Montserrat', sans-serif;
   }
   
   .form__button{
